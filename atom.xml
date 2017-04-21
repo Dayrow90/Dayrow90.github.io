@@ -4,9 +4,9 @@
   <subtitle>热情 礼貌 一问三不知</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://dayrow90.github.io/"/>
   <updated>2017-04-20T18:51:03.406Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://dayrow90.github.io/</id>
   
   <author>
     <name>Dayrow90</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/04/21/hello-world/"/>
-    <id>http://yoursite.com/2017/04/21/hello-world/</id>
+    <link href="https://dayrow90.github.io/2017/04/21/hello-world/"/>
+    <id>https://dayrow90.github.io/2017/04/21/hello-world/</id>
     <published>2017-04-20T18:51:03.406Z</published>
     <updated>2017-04-20T18:51:03.406Z</updated>
     
